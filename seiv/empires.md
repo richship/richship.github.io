@@ -57,7 +57,7 @@ with a dominant ruler coming to power only in the last 50 years. At present, the
 their internal strife by refocusing on being superior to the aliens they encounter. In other words,
 watch out!</p>
 
-<h2>Norak Continuum - Rock Oxygen</h2>
+<h2>Norak Continuum - Rock, Oxygen</h2>
 <p>The Norak are a semi-aquatic, amphibious species. They prefer a damp climate,
 and enjoy dwelling on land. The Norak stand approximately two meters tall and are
 tri-pedal. The average life span of a Norak is approximately 120 years. Unique to the
