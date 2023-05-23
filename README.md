@@ -1,1 +1,1 @@
-<a href="seiv/empires.md">Space Empires IV - Standard Empires</a>
+<a href="seiv/empires.html">Space Empires IV - Standard Empires</a>
