@@ -1,1 +1,1 @@
-<a href="seiv/empires.html">Space Empires</a>
+<a href="seiv/empires.md">Space Empires</a>
