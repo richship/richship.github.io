@@ -78,7 +78,7 @@ technology makes them formidable opponents.
 advanced crystalline based technology. They may transform their bodies at will from
 solid to a semi-liquid state, but may not hold the change for prolonged periods. A
 long-lived species, Piundon have an average lifespan of 300 years.</p>
-<0>The Piundon are organized into occupation groups, with the politicians occupying their society’s
+<p>The Piundon are organized into occupation groups, with the politicians occupying their society’s
 top rank. Many believe that the leaders of their society keep their own people in line by
 continually waging war against nearby species.</p>
 <p>The Piundon’s history is laced with war. Not only are they violent, but untrustworthy in dealings
