@@ -43,6 +43,7 @@ Struggle of Empires<br>
 Tinner's Trail<br>
 Brass<br>
 Last Train to Wensleydale<br>
+Rise of Empires<br>
 Liberte</p>
 <h2>Other stuff:</h2>
 <p>Runebound<br>
@@ -64,4 +65,5 @@ Terrforming Mars: Prelude<br>
 OGRE Objective 218<br>
 Ankhor<br>
 Frank's Zoo<br>
-Deck Building</p>
+Deck Building
+Fossilis</p>
